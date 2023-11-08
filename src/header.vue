@@ -4,17 +4,16 @@
 <div class="box">
 <div @click="router.push('/birinchi')" class="box1 box_1">
 <div class="logo_div">
-    <img src="./assets/GIT.png" alt="">
+    <img src="./assets/bin.png" alt="">
     <span>
 Sanoq sistemalari
 </span></div>
 </div>
 <div @click="router.push('/ikkinchi')" class="box1 box_3">
     <div class="logo_div">
-    <img src="./assets/GIT.png" alt="">
+    <img src="./assets/acsii.png" alt="">
     <span>
-    lorem impsum
-
+ACSII jadvali
 </span></div>
 </div>
 <div @click="router.push('/uchinchi')" class="box1 box_4">
